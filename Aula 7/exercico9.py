@@ -1,0 +1,2 @@
+num1 = int(input("Digite um número inteiro"))
+print(f"A tabuda deste número é: \n {num1*1} \n {num1*2} \n {num1*3} \n {num1*4} \n {num1*5} \n {num1*6} \n {num1*7} \n {num1*8} \n {num1*9} \n {num1*10} \n ")
