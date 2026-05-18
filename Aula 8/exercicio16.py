@@ -1,6 +1,8 @@
-import math as matematica
+from math import *
 
-num = 7.70
+num = float(input("Digite um número"))
+num2 = float(input("Digite outro número"))
+soma = sqrt((pow(num, 2)) + (pow(num2, 2)))
 
-if num >= 7.5 and num <= 8:
-    print(matematica.ceil(num))
+
+print(f"A soma dos quadrados dos catetos da hipotenusa é: {soma}")
