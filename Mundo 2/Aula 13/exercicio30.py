@@ -1,5 +1,6 @@
-palavra = str(input("Digite uma palavra!"))
+palavra = str(input("Digite umaaaaaa palavra!"))
 print(palavra.replace(" ", ""))
 
 
 
+aaaaaaaaaaaaaaaaaaaaaaaaaa
