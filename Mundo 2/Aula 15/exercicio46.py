@@ -1,3 +1,4 @@
+
 idade = 0
 sexo = 0
 c = 1
